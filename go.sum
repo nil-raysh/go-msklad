@@ -1,2 +1,4 @@
 github.com/arcsub/go-moysklad v0.0.13 h1:TJ6iq45hfK7nvGwD16/gfgng4sp+jMxzLay37lCzaoY=
 github.com/arcsub/go-moysklad v0.0.13/go.mod h1:OIegSRT295K6fMsfyobO3mt3ptcbgXu4Obzeb/4IqMA=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
